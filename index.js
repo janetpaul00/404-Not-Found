@@ -3,3 +3,5 @@ const foo = () => {
 };
 
 foo();
+foo();
+foo();
