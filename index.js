@@ -1,1 +1,5 @@
-<header>Hello World</header>;
+const foo = () => {
+  console.log("foo");
+};
+
+foo();
