@@ -1,7 +1,7 @@
-const foo = () => {
-  console.log("foo");
+const bar = () => {
+  console.log("bar");
 };
 
-foo();
-foo();
-foo();
+bar();
+bar();
+bar();
